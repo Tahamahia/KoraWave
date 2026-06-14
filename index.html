@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KoraWave 🌊⚽ - بث مباشر للمباريات</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>KoraWave 🌊⚽</h1>
+        <p>البث المباشر لأهم المباريات والقنوات الرياضية</p>
+    </header>
+
+    <main class="container">
+        <section class="player-section">
+            <div id="player-container" class="player-container">
+                <video id="video-player" controls playsinline></video>
+                <div class="watermark">KoraWave 🌊⚽</div>
+                
+                <button id="fullscreen-btn" class="fullscreen-btn" title="توسيع الشاشة">
+                    <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+                </button>
+
+                <!-- Anti Adblock Overlay -->
+                <div id="anti-adblock-overlay" class="overlay hidden">
+                    <div class="overlay-content">
+                        <h2>تنبيه هام! 🛑</h2>
+                        <p>بث المباريات مجاناً يكلفنا الكثير. يرجى إيقاف مانع الإعلانات لدعم KoraWave ومواصلة المشاهدة.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- AD 2: Fixed Sticky Banner under the video player -->
+            <div class="sticky-ad-container ad-container">
+                <script>
+                  atOptions = {
+                    'key' : 'b222780620c3c88670047e3864d616eb',
+                    'format' : 'iframe',
+                    'height' : 50,
+                    'width' : 320,
+                    'params' : {}
+                  };
+                </script>
+                <script src="https://www.highperformanceformat.com/b222780620c3c88670047e3864d616eb/invoke.js"></script>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <div class="matches-list">
+                <h2>🔴 مباريات اليوم</h2>
+                <div id="premium-matches" class="match-grid premium-grid"></div>
+                <div id="matches-container" class="match-grid"></div>
+            </div>
+
+            <div class="channels-list">
+                <h2>قنوات الرياضة المفتوحة 📺</h2>
+                <div id="channels-container" class="channel-grid"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+
+    <!-- AD 1: Social Bar immediately before closing body tag -->
+    <script src="https://pl29747017.effectivecpmnetwork.com/64/af/e1/64afe17c9f9c23d67a762d84eafa3499.js"></script>
+</body>
+</html>
