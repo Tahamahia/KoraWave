@@ -1,0 +1,32 @@
+[
+  {
+    "homeTeam": "Haiti",
+    "awayTeam": "Scotland",
+    "time": "2026-06-14T01:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Australia",
+    "awayTeam": "Turkey",
+    "time": "2026-06-14T04:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Germany",
+    "awayTeam": "Curaçao",
+    "time": "2026-06-14T17:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Netherlands",
+    "awayTeam": "Japan",
+    "time": "2026-06-14T20:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Ivory Coast",
+    "awayTeam": "Ecuador",
+    "time": "2026-06-14T23:00:00Z",
+    "competition": "FIFA World Cup"
+  }
+]
