@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
         matches.forEach(match => {
             const el = document.createElement('div');
             el.className = `card ${isPremium ? 'premium' : ''}`;
-            const localTime = match.utcDate ? convertUTCToLocal(match.utcDate) : match.time || 'Live';
+            const localTime = (match.utcDate || match.time) ? convertUTCToLocal(match.utcDate || match.time) : 'Live';
             
             // Handle JSON structure discrepancies between Gist and Football API
             const matchTitleHTML = match.title 
