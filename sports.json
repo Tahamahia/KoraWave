@@ -744,6 +744,24 @@
     "country": "RS"
   },
   {
+    "id": "ArenaSportPremium1BH.ba",
+    "name": "Arena Sport Premium 1 BH",
+    "url": "",
+    "country": "BA"
+  },
+  {
+    "id": "ArenaSportPremium2BH.ba",
+    "name": "Arena Sport Premium 2 BH",
+    "url": "",
+    "country": "BA"
+  },
+  {
+    "id": "ArenaSportPremium3BH.ba",
+    "name": "Arena Sport Premium 3 BH",
+    "url": "",
+    "country": "BA"
+  },
+  {
     "id": "ArenaSportTenis.rs",
     "name": "Arena Sport Tenis",
     "url": "",
@@ -13564,6 +13582,18 @@
     "name": "Unifi Sports 4",
     "url": "",
     "country": "MY"
+  },
+  {
+    "id": "Unite8Sports1.in",
+    "name": "Unite8 Sports 1",
+    "url": "",
+    "country": "IN"
+  },
+  {
+    "id": "Unite8Sports2.in",
+    "name": "Unite8 Sports 2",
+    "url": "",
+    "country": "IN"
   },
   {
     "id": "UniversitarioTV.pe",
