@@ -2346,6 +2346,12 @@
     "country": "UK"
   },
   {
+    "id": "DAZNDartsxPlutoTV.de",
+    "name": "DAZN Darts x Pluto TV",
+    "url": "",
+    "country": "DE"
+  },
+  {
     "id": "DAZNF1.uk",
     "name": "DAZN F1",
     "url": "",
@@ -2354,6 +2360,18 @@
   {
     "id": "DAZNFAST.de",
     "name": "DAZN FAST",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "DAZNHandballxPlutoTV.de",
+    "name": "DAZN Handball x Pluto TV",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "DAZNHeldinnenxPlutoTV.de",
+    "name": "DAZN Heldinnen x Pluto TV",
     "url": "",
     "country": "DE"
   },
@@ -9102,8 +9120,26 @@
     "country": "US"
   },
   {
+    "id": "PlutoTVCompetition.us",
+    "name": "Pluto TV Competition",
+    "url": "",
+    "country": "US"
+  },
+  {
     "id": "PlutoTVDeportes.us",
     "name": "Pluto TV Deportes",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVEsportes.us",
+    "name": "Pluto TV Esportes",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVESports.us",
+    "name": "Pluto TV E-Sports",
     "url": "",
     "country": "US"
   },
@@ -9120,16 +9156,76 @@
     "country": "US"
   },
   {
+    "id": "PlutoTVFishing.se",
+    "name": "Pluto TV Fishing",
+    "url": "",
+    "country": "SE"
+  },
+  {
     "id": "PlutoTVFutbolParaFans.us",
     "name": "Pluto TV Futbol Para Fans",
     "url": "",
     "country": "US"
   },
   {
+    "id": "PlutoTVHandboldHighlights.se",
+    "name": "Pluto TV Handbold Highlights",
+    "url": "",
+    "country": "SE"
+  },
+  {
+    "id": "PlutoTVHandboldLive.se",
+    "name": "Pluto TV Handbold Live",
+    "url": "",
+    "country": "SE"
+  },
+  {
+    "id": "PlutoTVHandbollHighlights.se",
+    "name": "Pluto TV Handboll Highlights",
+    "url": "",
+    "country": "SE"
+  },
+  {
+    "id": "PlutoTVHandbollLive.se",
+    "name": "Pluto TV Handboll Live",
+    "url": "",
+    "country": "SE"
+  },
+  {
     "id": "PlutoTVProWrestling.us",
     "name": "Pluto TV Pro Wrestling",
     "url": "",
     "country": "US"
+  },
+  {
+    "id": "PlutoTVSnooker900.de",
+    "name": "Pluto TV Snooker 900",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "PlutoTVSnooker900.se",
+    "name": "Pluto TV Snooker 900",
+    "url": "",
+    "country": "SE"
+  },
+  {
+    "id": "PlutoTVSnooker900.us",
+    "name": "Pluto TV Snooker 900",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVSport.de",
+    "name": "Pluto TV Sport",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "PlutoTVSport.se",
+    "name": "Pluto TV Sport",
+    "url": "",
+    "country": "SE"
   },
   {
     "id": "PlutoTVSport.us",
