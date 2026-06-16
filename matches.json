@@ -1,26 +1,20 @@
 [
   {
-    "homeTeam": "Sweden",
-    "awayTeam": "Tunisia",
-    "time": "2026-06-15T02:00:00Z",
+    "homeTeam": "Iran",
+    "awayTeam": "New Zealand",
+    "time": "2026-06-16T01:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Spain",
-    "awayTeam": "Cape Verde Islands",
-    "time": "2026-06-15T16:00:00Z",
+    "homeTeam": "France",
+    "awayTeam": "Senegal",
+    "time": "2026-06-16T19:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Belgium",
-    "awayTeam": "Egypt",
-    "time": "2026-06-15T19:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Saudi Arabia",
-    "awayTeam": "Uruguay",
-    "time": "2026-06-15T22:00:00Z",
+    "homeTeam": "Iraq",
+    "awayTeam": "Norway",
+    "time": "2026-06-16T22:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
