@@ -1,26 +1,20 @@
 [
   {
-    "homeTeam": "Uzbekistan",
-    "awayTeam": "Colombia",
-    "time": "2026-06-18T02:00:00Z",
+    "homeTeam": "Mexico",
+    "awayTeam": "South Korea",
+    "time": "2026-06-19T01:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Czechia",
-    "awayTeam": "South Africa",
-    "time": "2026-06-18T16:00:00Z",
+    "homeTeam": "United States",
+    "awayTeam": "Australia",
+    "time": "2026-06-19T19:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Switzerland",
-    "awayTeam": "Bosnia-Herzegovina",
-    "time": "2026-06-18T19:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Canada",
-    "awayTeam": "Qatar",
-    "time": "2026-06-18T22:00:00Z",
+    "homeTeam": "Scotland",
+    "awayTeam": "Morocco",
+    "time": "2026-06-19T22:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
