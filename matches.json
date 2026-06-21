@@ -1,32 +1,32 @@
 [
   {
-    "homeTeam": "Brazil",
-    "awayTeam": "Haiti",
-    "time": "2026-06-20T00:30:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Turkey",
-    "awayTeam": "Paraguay",
-    "time": "2026-06-20T03:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Netherlands",
-    "awayTeam": "Sweden",
-    "time": "2026-06-20T17:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Germany",
-    "awayTeam": "Ivory Coast",
-    "time": "2026-06-20T20:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
     "homeTeam": "Ecuador",
     "awayTeam": "Curaçao",
     "time": "2026-06-21T00:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Tunisia",
+    "awayTeam": "Japan",
+    "time": "2026-06-21T04:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Spain",
+    "awayTeam": "Saudi Arabia",
+    "time": "2026-06-21T16:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Belgium",
+    "awayTeam": "Iran",
+    "time": "2026-06-21T19:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Uruguay",
+    "awayTeam": "Cape Verde Islands",
+    "time": "2026-06-21T22:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
