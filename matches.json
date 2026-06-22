@@ -1,32 +1,26 @@
 [
   {
-    "homeTeam": "Ecuador",
-    "awayTeam": "Curaçao",
-    "time": "2026-06-21T00:00:00Z",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Egypt",
+    "time": "2026-06-22T01:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Tunisia",
-    "awayTeam": "Japan",
-    "time": "2026-06-21T04:00:00Z",
+    "homeTeam": "Argentina",
+    "awayTeam": "Austria",
+    "time": "2026-06-22T17:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Spain",
-    "awayTeam": "Saudi Arabia",
-    "time": "2026-06-21T16:00:00Z",
+    "homeTeam": "France",
+    "awayTeam": "Iraq",
+    "time": "2026-06-22T21:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Belgium",
-    "awayTeam": "Iran",
-    "time": "2026-06-21T19:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Uruguay",
-    "awayTeam": "Cape Verde Islands",
-    "time": "2026-06-21T22:00:00Z",
+    "homeTeam": "Norway",
+    "awayTeam": "Senegal",
+    "time": "2026-06-23T00:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
