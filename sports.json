@@ -3828,6 +3828,12 @@
     "country": "NL"
   },
   {
+    "id": "FightClub.ru",
+    "name": "Fight Club",
+    "url": "",
+    "country": "RU"
+  },
+  {
     "id": "FightFactor.uk",
     "name": "Fight Factor",
     "url": "",
@@ -7630,6 +7636,12 @@
     "name": "New Japan Pro Wrestling World",
     "url": "",
     "country": "JP"
+  },
+  {
+    "id": "NextLevelSportsEntertainment.us",
+    "name": "Next Level Sports Entertainment",
+    "url": "",
+    "country": "US"
   },
   {
     "id": "NFLChannel.us",
