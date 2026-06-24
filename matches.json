@@ -6,26 +6,26 @@
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Switzerland",
-    "awayTeam": "Canada",
-    "time": "2026-06-24T19:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
     "homeTeam": "Bosnia-Herzegovina",
     "awayTeam": "Qatar",
     "time": "2026-06-24T19:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Scotland",
-    "awayTeam": "Brazil",
-    "time": "2026-06-24T22:00:00Z",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Canada",
+    "time": "2026-06-24T19:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
     "homeTeam": "Morocco",
     "awayTeam": "Haiti",
+    "time": "2026-06-24T22:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Scotland",
+    "awayTeam": "Brazil",
     "time": "2026-06-24T22:00:00Z",
     "competition": "FIFA World Cup"
   }
