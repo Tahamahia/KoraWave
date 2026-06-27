@@ -1,20 +1,14 @@
 [
   {
-    "homeTeam": "Uruguay",
-    "awayTeam": "Spain",
-    "time": "2026-06-27T00:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
     "homeTeam": "Cape Verde Islands",
     "awayTeam": "Saudi Arabia",
     "time": "2026-06-27T00:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "New Zealand",
-    "awayTeam": "Belgium",
-    "time": "2026-06-27T03:00:00Z",
+    "homeTeam": "Uruguay",
+    "awayTeam": "Spain",
+    "time": "2026-06-27T00:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
@@ -24,9 +18,9 @@
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Panama",
-    "awayTeam": "England",
-    "time": "2026-06-27T21:00:00Z",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Belgium",
+    "time": "2026-06-27T03:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
@@ -36,14 +30,20 @@
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Colombia",
-    "awayTeam": "Portugal",
-    "time": "2026-06-27T23:30:00Z",
+    "homeTeam": "Panama",
+    "awayTeam": "England",
+    "time": "2026-06-27T21:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
     "homeTeam": "Congo DR",
     "awayTeam": "Uzbekistan",
+    "time": "2026-06-27T23:30:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "Colombia",
+    "awayTeam": "Portugal",
     "time": "2026-06-27T23:30:00Z",
     "competition": "FIFA World Cup"
   }
