@@ -1500,6 +1500,12 @@
     "country": "UK"
   },
   {
+    "id": "BrondbyTV.se",
+    "name": "Brondby TV",
+    "url": "",
+    "country": "SE"
+  },
+  {
     "id": "BRTVWinterOlympicsDocumentaryChannel.cn",
     "name": "BRTV Winter Olympics Documentary Channel",
     "url": "",
@@ -3804,6 +3810,12 @@
     "country": "DE"
   },
   {
+    "id": "FCKLovinderne.se",
+    "name": "FCK Lovinderne",
+    "url": "",
+    "country": "SE"
+  },
+  {
     "id": "FIFAPlus.uk",
     "name": "FIFA+",
     "url": "",
@@ -4456,6 +4468,12 @@
     "name": "Gol",
     "url": "",
     "country": "ES"
+  },
+  {
+    "id": "GolazoNetwork.us",
+    "name": "Golazo Network",
+    "url": "",
+    "country": "US"
   },
   {
     "id": "GolClassics.es",
@@ -9180,6 +9198,18 @@
     "country": "SE"
   },
   {
+    "id": "PlutoTVFutbol.de",
+    "name": "Pluto TV Futbol",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "PlutoTVFutbol.us",
+    "name": "Pluto TV Futbol",
+    "url": "",
+    "country": "US"
+  },
+  {
     "id": "PlutoTVFutbolParaFans.us",
     "name": "Pluto TV Futbol Para Fans",
     "url": "",
@@ -9244,12 +9274,6 @@
     "name": "Pluto TV Sport",
     "url": "",
     "country": "SE"
-  },
-  {
-    "id": "PlutoTVSport.us",
-    "name": "Pluto TV Sport",
-    "url": "",
-    "country": "US"
   },
   {
     "id": "PlutoTVSports.us",
@@ -12220,6 +12244,18 @@
     "name": "Sudan Sport",
     "url": "",
     "country": "SD"
+  },
+  {
+    "id": "SUMOParis2026.de",
+    "name": "SUMO Paris 2026",
+    "url": "",
+    "country": "DE"
+  },
+  {
+    "id": "SUMOParis2026.us",
+    "name": "SUMO Paris 2026",
+    "url": "",
+    "country": "US"
   },
   {
     "id": "SunSportsTV.zm",
