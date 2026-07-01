@@ -1,20 +1,26 @@
 [
   {
-    "homeTeam": "Netherlands",
-    "awayTeam": "Morocco",
-    "time": "2026-06-30T01:00:00Z",
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "time": "2026-07-01T01:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Ivory Coast",
-    "awayTeam": "Norway",
-    "time": "2026-06-30T17:00:00Z",
+    "homeTeam": "England",
+    "awayTeam": "Congo DR",
+    "time": "2026-07-01T16:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "France",
-    "awayTeam": "Sweden",
-    "time": "2026-06-30T21:00:00Z",
+    "homeTeam": "Belgium",
+    "awayTeam": "Senegal",
+    "time": "2026-07-01T20:00:00Z",
+    "competition": "FIFA World Cup"
+  },
+  {
+    "homeTeam": "United States",
+    "awayTeam": "Bosnia-Herzegovina",
+    "time": "2026-07-02T00:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
