@@ -2592,26 +2592,8 @@
     "country": "RO"
   },
   {
-    "id": "DirecTVSports.us",
-    "name": "DirecTV Sports",
-    "url": "",
-    "country": "US"
-  },
-  {
-    "id": "DirecTVSports2.us",
-    "name": "DirecTV Sports 2",
-    "url": "",
-    "country": "US"
-  },
-  {
     "id": "DirecTVSportsFight.us",
     "name": "DirecTV Sports Fight",
-    "url": "",
-    "country": "US"
-  },
-  {
-    "id": "DirecTVSportsPlus.us",
-    "name": "DirecTV Sports+",
     "url": "",
     "country": "US"
   },
@@ -2644,6 +2626,30 @@
     "name": "DSport",
     "url": "",
     "country": "IN"
+  },
+  {
+    "id": "DSports.us",
+    "name": "DSports",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "DSports2.us",
+    "name": "DSports 2",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "DSportsMotor.us",
+    "name": "DSports Motor",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "DSportsPlus.us",
+    "name": "DSports+",
+    "url": "",
+    "country": "US"
   },
   {
     "id": "DSportsUruguay.uy",
@@ -11704,6 +11710,12 @@
     "name": "Sportswire",
     "url": "",
     "country": "US"
+  },
+  {
+    "id": "SportTV.by",
+    "name": "Sport TV",
+    "url": "",
+    "country": "BY"
   },
   {
     "id": "SportTV.jo",
