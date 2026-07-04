@@ -1,5 +1,11 @@
 [
   {
+    "id": "1BaseballNetwork.ve",
+    "name": "1 Baseball Network",
+    "url": "",
+    "country": "VE"
+  },
+  {
     "id": "1Sports.in",
     "name": "1 Sports",
     "url": "",
@@ -2812,6 +2818,18 @@
     "name": "El-Heddaf TV",
     "url": "",
     "country": "DZ"
+  },
+  {
+    "id": "EntelGol.bo",
+    "name": "Entel Gol",
+    "url": "",
+    "country": "BO"
+  },
+  {
+    "id": "EntelGolPlus.bo",
+    "name": "Entel Gol+",
+    "url": "",
+    "country": "BO"
   },
   {
     "id": "Equalympic.ua",
@@ -8646,6 +8664,24 @@
     "country": "KR"
   },
   {
+    "id": "OkkoFutbol.ru",
+    "name": "Okko Futbol",
+    "url": "",
+    "country": "RU"
+  },
+  {
+    "id": "OkkoPrajmSport.ru",
+    "name": "Okko Prajm Sport",
+    "url": "",
+    "country": "RU"
+  },
+  {
+    "id": "OkkoSport.ru",
+    "name": "Okko Sport",
+    "url": "",
+    "country": "RU"
+  },
+  {
     "id": "OLTV.fr",
     "name": "OL TV",
     "url": "",
@@ -12788,6 +12824,12 @@
   {
     "id": "TennisChannel.us",
     "name": "Tennis Channel",
+    "url": "",
+    "country": "US"
+  },
+  {
+    "id": "TennisChannel2.us",
+    "name": "Tennis Channel 2",
     "url": "",
     "country": "US"
   },
