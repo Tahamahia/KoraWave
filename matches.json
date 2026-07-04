@@ -1,20 +1,20 @@
 [
   {
-    "homeTeam": "Switzerland",
-    "awayTeam": "Algeria",
-    "time": "2026-07-03T03:00:00Z",
+    "homeTeam": "Colombia",
+    "awayTeam": "Ghana",
+    "time": "2026-07-04T01:30:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Australia",
-    "awayTeam": "Egypt",
-    "time": "2026-07-03T18:00:00Z",
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
+    "time": "2026-07-04T17:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Argentina",
-    "awayTeam": "Cape Verde Islands",
-    "time": "2026-07-03T22:00:00Z",
+    "homeTeam": "Paraguay",
+    "awayTeam": "France",
+    "time": "2026-07-04T21:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]

@@ -6222,6 +6222,12 @@
     "country": "RU"
   },
   {
+    "id": "MatchUltra.ru",
+    "name": "Match! Ultra",
+    "url": "",
+    "country": "RU"
+  },
+  {
     "id": "MaxSport1.bg",
     "name": "Max Sport 1",
     "url": "",
@@ -13696,6 +13702,12 @@
     "name": "UAAP Varsity Channel",
     "url": "",
     "country": "PH"
+  },
+  {
+    "id": "UDAR.ru",
+    "name": "UDAR",
+    "url": "",
+    "country": "RU"
   },
   {
     "id": "UdineseTV.it",
