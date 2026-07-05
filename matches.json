@@ -1,20 +1,14 @@
 [
   {
-    "homeTeam": "Colombia",
-    "awayTeam": "Ghana",
-    "time": "2026-07-04T01:30:00Z",
+    "homeTeam": "Brazil",
+    "awayTeam": "Norway",
+    "time": "2026-07-05T20:00:00Z",
     "competition": "FIFA World Cup"
   },
   {
-    "homeTeam": "Canada",
-    "awayTeam": "Morocco",
-    "time": "2026-07-04T17:00:00Z",
-    "competition": "FIFA World Cup"
-  },
-  {
-    "homeTeam": "Paraguay",
-    "awayTeam": "France",
-    "time": "2026-07-04T21:00:00Z",
+    "homeTeam": "Mexico",
+    "awayTeam": "England",
+    "time": "2026-07-06T00:00:00Z",
     "competition": "FIFA World Cup"
   }
 ]
