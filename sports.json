@@ -1014,6 +1014,12 @@
     "country": "TZ"
   },
   {
+    "id": "AztecaDeportesNetwork.mx",
+    "name": "Azteca Deportes Network",
+    "url": "",
+    "country": "MX"
+  },
+  {
     "id": "b1bbox.bg",
     "name": "b1b.box",
     "url": "",
@@ -5802,6 +5808,12 @@
     "country": "US"
   },
   {
+    "id": "LaTribuDeport1120AM.py",
+    "name": "La Tribu Deport 1120 AM",
+    "url": "",
+    "country": "PY"
+  },
+  {
     "id": "LazioStyleChannel.it",
     "name": "Lazio Style Channel",
     "url": "",
@@ -8580,6 +8592,12 @@
     "country": "PL"
   },
   {
+    "id": "NSports.br",
+    "name": "N Sports",
+    "url": "",
+    "country": "BR"
+  },
+  {
     "id": "NTASports24.ng",
     "name": "NTA Sports 24",
     "url": "",
@@ -9720,6 +9738,12 @@
     "country": "PK"
   },
   {
+    "id": "PTVSportsNetwork.ph",
+    "name": "PTV Sports Network",
+    "url": "",
+    "country": "PH"
+  },
+  {
     "id": "PXSports.mx",
     "name": "PX Sports",
     "url": "",
@@ -9748,6 +9772,12 @@
     "name": "Q Sport",
     "url": "",
     "country": "KZ"
+  },
+  {
+    "id": "RacerBrasil.br",
+    "name": "Racer Brasil",
+    "url": "",
+    "country": "BR"
   },
   {
     "id": "RACERInternational.pl",
@@ -14554,6 +14584,12 @@
     "name": "XSport+",
     "url": "",
     "country": "UA"
+  },
+  {
+    "id": "Xsports.br",
+    "name": "Xsports",
+    "url": "",
+    "country": "BR"
   },
   {
     "id": "ZamalekTV.eg",
