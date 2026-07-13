@@ -2442,6 +2442,12 @@
     "country": "UK"
   },
   {
+    "id": "DbikeChannel.us",
+    "name": "Dbike Channel",
+    "url": "",
+    "country": "US"
+  },
+  {
     "id": "DDSports.in",
     "name": "DD Sports",
     "url": "",
@@ -9000,6 +9006,12 @@
     "country": "US"
   },
   {
+    "id": "PadelTimeTV.us",
+    "name": "Padel Time TV",
+    "url": "",
+    "country": "US"
+  },
+  {
     "id": "PalestineSport.ps",
     "name": "Palestine Sport",
     "url": "",
@@ -14170,6 +14182,12 @@
     "name": "Voli TV",
     "url": "",
     "country": "ID"
+  },
+  {
+    "id": "Volleyball.ru",
+    "name": "Volleyball",
+    "url": "",
+    "country": "RU"
   },
   {
     "id": "VOOsportWorld1.be",
