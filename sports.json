@@ -7218,6 +7218,12 @@
     "country": "CR"
   },
   {
+    "id": "NASCARChannel.us",
+    "name": "NASCAR Channel",
+    "url": "",
+    "country": "US"
+  },
+  {
     "id": "NauticalChannel.it",
     "name": "Nautical Channel",
     "url": "",
@@ -10156,6 +10162,12 @@
     "name": "Screen Golfzon",
     "url": "",
     "country": "KR"
+  },
+  {
+    "id": "ScrippsSportsNetwork.us",
+    "name": "Scripps Sports Network",
+    "url": "",
+    "country": "US"
   },
   {
     "id": "SEN502.us",
