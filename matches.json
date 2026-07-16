@@ -1,8 +1,14 @@
 [
   {
-    "homeTeam": "England",
-    "awayTeam": "Argentina",
-    "time": "2026-07-15T19:00:00Z",
-    "competition": "FIFA World Cup"
+    "homeTeam": "Botafogo FR",
+    "awayTeam": "Santos FC",
+    "time": "2026-07-16T22:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "EC Vitória",
+    "awayTeam": "CR Vasco da Gama",
+    "time": "2026-07-16T22:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
   }
 ]
