@@ -1,14 +1,20 @@
 [
   {
-    "homeTeam": "EC Vitória",
-    "awayTeam": "CR Vasco da Gama",
-    "time": "2026-07-16T22:30:00Z",
+    "homeTeam": "EC Bahia",
+    "awayTeam": "Chapecoense AF",
+    "time": "2026-07-17T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "Botafogo FR",
-    "awayTeam": "Santos FC",
-    "time": "2026-07-16T22:30:00Z",
+    "homeTeam": "Fluminense FC",
+    "awayTeam": "RB Bragantino",
+    "time": "2026-07-17T23:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "Grêmio FBPA",
+    "time": "2026-07-17T23:00:00Z",
     "competition": "Campeonato Brasileiro Série A"
   }
 ]
