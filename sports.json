@@ -450,6 +450,12 @@
     "country": "RO"
   },
   {
+    "id": "Arena.id",
+    "name": "Arena",
+    "url": "",
+    "country": "ID"
+  },
+  {
     "id": "Arena4.hu",
     "name": "Arena4",
     "url": "",
@@ -6336,6 +6342,12 @@
     "country": "MX"
   },
   {
+    "id": "MegogoGong.ua",
+    "name": "Megogo Gong",
+    "url": "",
+    "country": "UA"
+  },
+  {
     "id": "MEGOGOSport.ua",
     "name": "MEGOGO Sport",
     "url": "",
@@ -11440,6 +11452,12 @@
     "name": "Sport 5",
     "url": "",
     "country": "CZ"
+  },
+  {
+    "id": "Sport5.ua",
+    "name": "Sport 5",
+    "url": "",
+    "country": "UA"
   },
   {
     "id": "Sport5.xk",
