@@ -1,8 +1,32 @@
 [
   {
-    "homeTeam": "Coritiba FBC",
-    "awayTeam": "SE Palmeiras",
-    "time": "2026-07-22T22:30:00Z",
+    "homeTeam": "SC Internacional",
+    "awayTeam": "Cruzeiro EC",
+    "time": "2026-07-23T00:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Chapecoense AF",
+    "awayTeam": "CR Flamengo",
+    "time": "2026-07-23T00:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "São Paulo FC",
+    "awayTeam": "CA Paranaense",
+    "time": "2026-07-23T00:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Botafogo FR",
+    "awayTeam": "EC Vitória",
+    "time": "2026-07-23T22:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "SC Corinthians Paulista",
+    "awayTeam": "Clube do Remo",
+    "time": "2026-07-23T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   }
 ]
