@@ -14256,6 +14256,12 @@
     "country": "BE"
   },
   {
+    "id": "VSBetHD.vn",
+    "name": "VSBet HD",
+    "url": "",
+    "country": "VN"
+  },
+  {
     "id": "VSport1.no",
     "name": "V Sport 1",
     "url": "",
@@ -14440,6 +14446,12 @@
     "name": "WAPA-TV 4.3",
     "url": "",
     "country": "PR"
+  },
+  {
+    "id": "WeddingatFirstSightChannel.il",
+    "name": "Wedding at First Sight Channel",
+    "url": "",
+    "country": "IL"
   },
   {
     "id": "WESN.tt",
