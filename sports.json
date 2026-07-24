@@ -4218,6 +4218,12 @@
     "country": "US"
   },
   {
+    "id": "FranceSupervision.fr",
+    "name": "France Supervision",
+    "url": "",
+    "country": "FR"
+  },
+  {
     "id": "FranceTVPARIS2024.fr",
     "name": "France TV PARIS 2024",
     "url": "",
@@ -6970,6 +6976,12 @@
     "name": "MSI TV",
     "url": "",
     "country": "CM"
+  },
+  {
+    "id": "MSports.pk",
+    "name": "M Sports",
+    "url": "",
+    "country": "PK"
   },
   {
     "id": "MSSports.uy",
