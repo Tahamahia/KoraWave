@@ -1644,6 +1644,12 @@
     "country": "FR"
   },
   {
+    "id": "CanalPlusGolf.at",
+    "name": "Canal+ Golf",
+    "url": "",
+    "country": "AT"
+  },
+  {
     "id": "CanalPlusSport.et",
     "name": "Canal+ Sport",
     "url": "",
@@ -2626,6 +2632,12 @@
     "name": "DishHome Action Sports",
     "url": "",
     "country": "NP"
+  },
+  {
+    "id": "DiviSport.ua",
+    "name": "DiviSport",
+    "url": "",
+    "country": "UA"
   },
   {
     "id": "DocuSport.uk",
