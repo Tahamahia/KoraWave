@@ -1,20 +1,44 @@
 [
   {
-    "homeTeam": "CA Paranaense",
-    "awayTeam": "SC Internacional",
-    "time": "2026-07-25T21:30:00Z",
+    "homeTeam": "EC Bahia",
+    "awayTeam": "SC Corinthians Paulista",
+    "time": "2026-07-26T19:00:00Z",
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "Santos FC",
-    "awayTeam": "Chapecoense AF",
-    "time": "2026-07-25T21:30:00Z",
+    "homeTeam": "Cruzeiro EC",
+    "awayTeam": "Botafogo FR",
+    "time": "2026-07-26T19:00:00Z",
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "CR Vasco da Gama",
-    "awayTeam": "Mirassol FC",
-    "time": "2026-07-25T23:30:00Z",
+    "homeTeam": "Grêmio FBPA",
+    "awayTeam": "Fluminense FC",
+    "time": "2026-07-26T21:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "CR Flamengo",
+    "awayTeam": "São Paulo FC",
+    "time": "2026-07-26T21:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "RB Bragantino",
+    "awayTeam": "Coritiba FBC",
+    "time": "2026-07-26T21:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Clube do Remo",
+    "awayTeam": "EC Vitória",
+    "time": "2026-07-26T22:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "SE Palmeiras",
+    "awayTeam": "CA Mineiro",
+    "time": "2026-07-26T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   }
 ]
