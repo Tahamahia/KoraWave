@@ -12,12 +12,6 @@
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "Grêmio FBPA",
-    "awayTeam": "Fluminense FC",
-    "time": "2026-07-26T21:30:00Z",
-    "competition": "Campeonato Brasileiro Série A"
-  },
-  {
     "homeTeam": "RB Bragantino",
     "awayTeam": "Coritiba FBC",
     "time": "2026-07-26T21:30:00Z",
@@ -30,14 +24,20 @@
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "Clube do Remo",
-    "awayTeam": "EC Vitória",
-    "time": "2026-07-26T22:30:00Z",
+    "homeTeam": "Grêmio FBPA",
+    "awayTeam": "Fluminense FC",
+    "time": "2026-07-26T21:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   },
   {
     "homeTeam": "SE Palmeiras",
     "awayTeam": "CA Mineiro",
+    "time": "2026-07-26T22:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Clube do Remo",
+    "awayTeam": "EC Vitória",
     "time": "2026-07-26T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   }
