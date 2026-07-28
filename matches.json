@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "homeTeam": "CA Mineiro",
+    "awayTeam": "RB Bragantino",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Chapecoense AF",
+    "awayTeam": "CR Vasco da Gama",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Botafogo FR",
+    "awayTeam": "Grêmio FBPA",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "São Paulo FC",
+    "awayTeam": "Santos FC",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  }
+]
