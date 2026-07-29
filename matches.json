@@ -1,5 +1,17 @@
 [
   {
+    "homeTeam": "Chapecoense AF",
+    "awayTeam": "CR Vasco da Gama",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "CA Mineiro",
+    "awayTeam": "RB Bragantino",
+    "time": "2026-07-29T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
     "homeTeam": "Botafogo FR",
     "awayTeam": "Grêmio FBPA",
     "time": "2026-07-29T00:00:00Z",
@@ -12,15 +24,15 @@
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "CA Mineiro",
-    "awayTeam": "RB Bragantino",
-    "time": "2026-07-29T00:00:00Z",
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "Clube do Remo",
+    "time": "2026-07-29T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   },
   {
-    "homeTeam": "Chapecoense AF",
-    "awayTeam": "CR Vasco da Gama",
-    "time": "2026-07-29T00:00:00Z",
+    "homeTeam": "SC Internacional",
+    "awayTeam": "CR Flamengo",
+    "time": "2026-07-29T22:30:00Z",
     "competition": "Campeonato Brasileiro Série A"
   }
 ]
