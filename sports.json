@@ -4344,6 +4344,12 @@
     "country": "ES"
   },
   {
+    "id": "FutbolTV.uz",
+    "name": "Futbol TV",
+    "url": "",
+    "country": "UZ"
+  },
+  {
     "id": "FUTV.cr",
     "name": "FUTV",
     "url": "",
@@ -6190,6 +6196,18 @@
     "name": "Mahar Esports",
     "url": "",
     "country": "MM"
+  },
+  {
+    "id": "MaincastCybersport.ua",
+    "name": "Maincast Cybersport",
+    "url": "",
+    "country": "UA"
+  },
+  {
+    "id": "MaincastSport.ua",
+    "name": "Maincast Sport",
+    "url": "",
+    "country": "UA"
   },
   {
     "id": "MainEvent.au",
