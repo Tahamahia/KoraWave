@@ -4494,12 +4494,6 @@
     "country": "US"
   },
   {
-    "id": "Go3Sport.ee",
-    "name": "Go3 Sport",
-    "url": "",
-    "country": "EE"
-  },
-  {
     "id": "Go3Sport1.ee",
     "name": "Go3 Sport 1",
     "url": "",
@@ -13566,10 +13560,40 @@
     "country": "DK"
   },
   {
+    "id": "TV3Sport.ee",
+    "name": "TV3 Sport",
+    "url": "",
+    "country": "EE"
+  },
+  {
     "id": "TV3Sport.se",
     "name": "TV3 Sport",
     "url": "",
     "country": "SE"
+  },
+  {
+    "id": "TV3Sport2.ee",
+    "name": "TV3 Sport 2",
+    "url": "",
+    "country": "EE"
+  },
+  {
+    "id": "TV3Sport3.ee",
+    "name": "TV3 Sport 3",
+    "url": "",
+    "country": "EE"
+  },
+  {
+    "id": "TV3Sport4.ee",
+    "name": "TV3 Sport 4",
+    "url": "",
+    "country": "EE"
+  },
+  {
+    "id": "TV3SportOpen.ee",
+    "name": "TV3 Sport Open",
+    "url": "",
+    "country": "EE"
   },
   {
     "id": "TV4.lv",
