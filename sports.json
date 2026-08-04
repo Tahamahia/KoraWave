@@ -9756,6 +9756,12 @@
     "country": "RO"
   },
   {
+    "id": "PrimaSportCzechia.cz",
+    "name": "Prima Sport Czechia",
+    "url": "",
+    "country": "CZ"
+  },
+  {
     "id": "Prime.sy",
     "name": "Prime",
     "url": "",
@@ -13756,6 +13762,24 @@
     "name": "TV Partizan",
     "url": "",
     "country": "RS"
+  },
+  {
+    "id": "TVPlaySports.ee",
+    "name": "TV Play Sports",
+    "url": "",
+    "country": "EE"
+  },
+  {
+    "id": "TVPlaySportsPlus.ee",
+    "name": "TV Play Sports +",
+    "url": "",
+    "country": "EE"
+  },
+  {
+    "id": "TVPlaySportsX.ee",
+    "name": "TV Play Sports X",
+    "url": "",
+    "country": "EE"
   },
   {
     "id": "TVPSport.pl",
