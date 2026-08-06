@@ -2466,6 +2466,12 @@
     "country": "US"
   },
   {
+    "id": "DDishSport.mn",
+    "name": "DDish Sport",
+    "url": "",
+    "country": "MN"
+  },
+  {
     "id": "DDSports.in",
     "name": "DD Sports",
     "url": "",
@@ -8674,6 +8680,12 @@
     "name": "N Sports",
     "url": "",
     "country": "BR"
+  },
+  {
+    "id": "NSports.mn",
+    "name": "N Sports",
+    "url": "",
+    "country": "MN"
   },
   {
     "id": "NTASports24.ng",
