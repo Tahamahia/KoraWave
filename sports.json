@@ -390,6 +390,12 @@
     "country": "US"
   },
   {
+    "id": "AllPlaySports.id",
+    "name": "AllPlay Sports",
+    "url": "",
+    "country": "ID"
+  },
+  {
     "id": "AllSports.br",
     "name": "All Sports",
     "url": "",
@@ -6880,6 +6886,24 @@
     "name": "MNB Sports",
     "url": "",
     "country": "MN"
+  },
+  {
+    "id": "MNCSports.id",
+    "name": "MNC Sports",
+    "url": "",
+    "country": "ID"
+  },
+  {
+    "id": "MNCSports2.id",
+    "name": "MNC Sports 2",
+    "url": "",
+    "country": "ID"
+  },
+  {
+    "id": "MNCSports3.id",
+    "name": "MNC Sports 3",
+    "url": "",
+    "country": "ID"
   },
   {
     "id": "MNEsport1.me",
