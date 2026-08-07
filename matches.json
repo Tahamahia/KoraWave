@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "homeTeam": "SC Cambuur-Leeuwarden",
+    "awayTeam": "SBV Excelsior",
+    "time": "2026-08-07T18:00:00Z",
+    "competition": "Eredivisie"
+  },
+  {
+    "homeTeam": "GD Estoril Praia",
+    "awayTeam": "FC Famalicão",
+    "time": "2026-08-07T19:15:00Z",
+    "competition": "Primeira Liga"
+  }
+]
