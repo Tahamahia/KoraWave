@@ -6894,6 +6894,12 @@
     "country": "ID"
   },
   {
+    "id": "MNCSports1.id",
+    "name": "MNC Sports 1",
+    "url": "",
+    "country": "ID"
+  },
+  {
     "id": "MNCSports2.id",
     "name": "MNC Sports 2",
     "url": "",
@@ -14062,6 +14068,12 @@
     "name": "USA TODAY SPORTS",
     "url": "",
     "country": "US"
+  },
+  {
+    "id": "UseeSports.id",
+    "name": "Usee Sports",
+    "url": "",
+    "country": "ID"
   },
   {
     "id": "VakaTV3.ck",
