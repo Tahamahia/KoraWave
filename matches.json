@@ -1,14 +1,68 @@
 [
   {
-    "homeTeam": "SC Cambuur-Leeuwarden",
-    "awayTeam": "SBV Excelsior",
-    "time": "2026-08-07T18:00:00Z",
+    "homeTeam": "NEC",
+    "awayTeam": "Telstar 1963",
+    "time": "2026-08-08T14:30:00Z",
     "competition": "Eredivisie"
   },
   {
-    "homeTeam": "GD Estoril Praia",
-    "awayTeam": "FC Famalicão",
-    "time": "2026-08-07T19:15:00Z",
+    "homeTeam": "CS Marítimo",
+    "awayTeam": "Casa Pia AC",
+    "time": "2026-08-08T14:30:00Z",
     "competition": "Primeira Liga"
+  },
+  {
+    "homeTeam": "Go Ahead Eagles",
+    "awayTeam": "Willem II Tilburg",
+    "time": "2026-08-08T16:45:00Z",
+    "competition": "Eredivisie"
+  },
+  {
+    "homeTeam": "Vitória SC",
+    "awayTeam": "FC Arouca",
+    "time": "2026-08-08T17:00:00Z",
+    "competition": "Primeira Liga"
+  },
+  {
+    "homeTeam": "PSV",
+    "awayTeam": "Fortuna Sittard",
+    "time": "2026-08-08T18:00:00Z",
+    "competition": "Eredivisie"
+  },
+  {
+    "homeTeam": "Grêmio FBPA",
+    "awayTeam": "São Paulo FC",
+    "time": "2026-08-08T19:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "AZ",
+    "awayTeam": "ADO Den Haag",
+    "time": "2026-08-08T19:00:00Z",
+    "competition": "Eredivisie"
+  },
+  {
+    "homeTeam": "CF Estrela da Amadora",
+    "awayTeam": "Sporting Clube de Portugal",
+    "time": "2026-08-08T19:30:00Z",
+    "competition": "Primeira Liga"
+  },
+  {
+    "homeTeam": "Clube do Remo",
+    "awayTeam": "CA Mineiro",
+    "time": "2026-08-08T21:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Coritiba FBC",
+    "awayTeam": "Chapecoense AF",
+    "time": "2026-08-08T23:30:00Z",
+    "competition": "Campeonato Brasileiro Série A"
+  },
+  {
+    "homeTeam": "Botafogo FR",
+    "awayTeam": "Fluminense FC",
+    "time": "2026-08-09T00:00:00Z",
+    "competition": "Campeonato Brasileiro Série A"
   }
 ]
