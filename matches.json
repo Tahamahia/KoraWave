@@ -1,15 +1,15 @@
 [
   {
-    "homeTeam": "NEC",
-    "awayTeam": "Telstar 1963",
-    "time": "2026-08-08T14:30:00Z",
-    "competition": "Eredivisie"
-  },
-  {
     "homeTeam": "CS Marítimo",
     "awayTeam": "Casa Pia AC",
     "time": "2026-08-08T14:30:00Z",
     "competition": "Primeira Liga"
+  },
+  {
+    "homeTeam": "NEC",
+    "awayTeam": "Telstar 1963",
+    "time": "2026-08-08T14:30:00Z",
+    "competition": "Eredivisie"
   },
   {
     "homeTeam": "Go Ahead Eagles",
